@@ -1,4 +1,7 @@
-========================
+The above is the design for a Computer Lab Booking program for Commack High School that I designed so teachers can remotly book computer labs from the convienece of their desks. 
+
+
+=======================
 BUILD OUTPUT DESCRIPTION
 ========================
 

@@ -1,0 +1,3 @@
+# Commack High School Computer Booking System
+<img src="gui.png" width="40%">  
+This repository is dedicated to a computer lab booking system that I developed for Commack High School. Within the src folder all the java code can be found that produced the system. To run a working version of the code run the Final Computer Lab jar in the exec folder. Further documentation on how this system works can be found in the documentation pdf.
